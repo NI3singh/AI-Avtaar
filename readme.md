@@ -152,6 +152,7 @@ AI-avtaar/
 ---
 
 ## 🚀 Installation Guide
+> **📦 Note:** This repository does not include sample datasets or the complete Vton folder due to size constraints. If you need these resources for testing or development, please contact me via email: **your.itsnits333@example.com**
 
 ### Step 1: Clone the Repository
 
