@@ -5,7 +5,7 @@ import sys
 import time
 
 # Configure Gemini API - Use environment variable for security
-API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyAEv4yaCNlk6YNNCgpUBQgUBuhuh6V-67o")
+API_KEY = os.getenv("GEMINI_API_KEY", "add your key here for local testing")
 genai.configure(api_key=API_KEY)
 
 # Model for vision captioning
